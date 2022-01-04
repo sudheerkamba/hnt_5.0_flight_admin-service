@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 11.0.13
+Implementation-Title: Admin-service-flight-booking
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.project
+Implementation-URL: https://spring.io/projects/spring-boot/flight-AdminS
+ ervice
+Created-By: Maven Integration for Eclipse
+

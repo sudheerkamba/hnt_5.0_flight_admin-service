@@ -1,0 +1,19 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+jwt:
+  secret: s3cre!k3y
+server:
+  port: 0
+spring:
+  application:
+    name: Admin
+  datasource:
+    password: pass@word1
+    url: jdbc:mysql://localhost:3306/sample
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
